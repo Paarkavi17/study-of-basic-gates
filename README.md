@@ -63,6 +63,9 @@ Y= A⊕B
 
 
 **PROGRAM**
+
+Program for logic gates and verify its truth table in quartus using Verilog programming
+ Developed by:PAARKAVI A RegisterNumber: 25012275
 module ex1(a,b,y1,y2,y3,y4,y5,y6);
 input a,b;
 output y1,y2,y3,y4,y5,y6;
@@ -73,17 +76,16 @@ nor g4(y4,a,b);
 xor g5(y5,a,b);
 not g6(y6,a);
 endmodule
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
+ Developed by:PAARKAVI A RegisterNumber: 25012275
  
 **Logic symbol & Truthtable**
-<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/7c5188c4-00a6-4ae3-a4b3-f232e7244577" />
+<img width="1267" height="751" alt="image" src="https://github.com/user-attachments/assets/e56c7e18-b0de-4215-a64d-dd724196255c" />
 
 **RTL realization Output:** 
-<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/99c4514a-183e-4441-840f-1acfd664e6a4" />
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/7e9fb2d7-32f5-4021-968c-72a3b84d4fd3" />
 
 **RTL**
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/5963f9c8-b75b-4432-ad01-b061b304068b" />
 
 **Result:**
 Thus the basic logic gates are studied and the truth tables are verified.
